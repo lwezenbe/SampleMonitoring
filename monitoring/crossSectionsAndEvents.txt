@@ -1,137 +1,306 @@
 Summer20UL16pre
 
-/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                      -1
-/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                  6.641e+03 +- 1.254e+01 pb
+/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                               1.589e+04 +- 6.436e+00 pb
 /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAOD-Pilot_106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                                     6.616e+03 +- 2.877e+01 pb
 /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                  6.416e+03 +- 1.146e+01 pb
-/DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                   5.350e+03 +- 2.242e+00 pb
-/QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                1.091e+00 +- 1.035e-03 pb
-/QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                    6.595e+04 +- 4.657e+01 pb
-/QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                 2.115e+04 +- 1.534e+01 pb
-/QCD_Pt-15to20_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                      1.305e+06 +- 8.602e+02 pb
-/QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                   2.793e+06 +- 1.692e+03 pb
-/QCD_Pt-15to7000_TuneCP5_Flat2018_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                             -1
-/QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                    1.637e+04 +- 1.492e+01 pb
-/QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                 7.017e+03 +- 4.921e+00 pb
-/QCD_Pt-20to30_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                      4.843e+06 +- 2.840e+03 pb
-/QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                   2.516e+06 +- 1.460e+03 pb
-/QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                 6.209e+02 +- 5.134e-01 pb
-/QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                    1.085e+03 +- 7.900e-01 pb
-/QCD_Pt-30to50_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                      6.353e+06 +- 3.646e+03 pb
-/QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                   1.361e+06 +- 7.528e+02 pb
-/QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                 5.926e+01 +- 4.269e-02 pb
-/QCD_Pt-50to80_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                             -1
-/QCD_Pt-50to80_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                   3.758e+05 +- 2.647e+02 pb
-/QCD_Pt-600to800_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                 1.828e+01 +- 1.640e-02 pb
-/QCD_Pt-800to1000_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                3.293e+00 +- 2.415e-03 pb
-/QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                     3.636e+05 +- 3.204e+02 pb
-/QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                  8.828e+04 +- 7.482e+01 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          4.302e-08 +- 1.193e-10 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                         4.303e-08 +- 8.476e-11 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                     -1
+/HeavyNeutrino_trilepton_M-1000_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                              -1
+/HeavyNeutrino_trilepton_M-100_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           4.267e-04 +- 9.763e-07 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          4.312e-04 +- 1.045e-06 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-100_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-10_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                             8.310e-02 +- 1.381e-04 pb
+/HeavyNeutrino_trilepton_M-10_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            8.404e-02 +- 1.395e-04 pb
+/HeavyNeutrino_trilepton_M-1200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          1.759e-08 +- 3.449e-11 pb
+/HeavyNeutrino_trilepton_M-1200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                         1.764e-08 +- 3.461e-11 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           1.553e-04 +- 3.951e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          1.558e-04 +- 3.989e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-125_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-1500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          5.330e-09 +- 1.154e-11 pb
+/HeavyNeutrino_trilepton_M-1500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                         5.339e-09 +- 1.016e-11 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           7.434e-05 +- 1.828e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          7.445e-05 +- 1.839e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-150_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           2.462e-05 +- 5.819e-08 pb
+/HeavyNeutrino_trilepton_M-200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          2.472e-05 +- 5.830e-08 pb
+/HeavyNeutrino_trilepton_M-200_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-200_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-20_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                             7.838e-02 +- 1.324e-04 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            7.949e-02 +- 1.300e-04 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                2.374e-02 +- 4.157e-05 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM         7.093e-03 +- 1.423e-05 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                  -1
+/HeavyNeutrino_trilepton_M-250_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          1.083e-05 +- 2.482e-08 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-250_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-300_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           5.562e-06 +- 1.241e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          5.583e-06 +- 1.308e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-300_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-30_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                    -1
+/HeavyNeutrino_trilepton_M-30_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            8.158e-02 +- 9.630e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                2.014e-02 +- 4.074e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM         6.907e-03 +- 3.512e-05 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           3.171e-06 +- 6.947e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          3.161e-06 +- 6.946e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-350_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-400_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           1.924e-06 +- 4.420e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          1.929e-06 +- 4.109e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-400_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-40_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                    -1
+/HeavyNeutrino_trilepton_M-40_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            7.689e-02 +- 1.208e-04 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                1.488e-02 +- 2.911e-05 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM         6.278e-03 +- 9.807e-06 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           1.230e-06 +- 2.599e-09 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          1.233e-06 +- 2.619e-09 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-450_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           8.203e-07 +- 1.704e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          8.203e-07 +- 1.717e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-500_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-50_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                             5.964e-02 +- 9.173e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            6.030e-02 +- 9.178e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                8.629e-03 +- 1.584e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM         4.620e-03 +- 9.332e-06 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           3.992e-07 +- 8.080e-10 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                 -1
+/HeavyNeutrino_trilepton_M-600_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-600_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-60_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                             3.540e-02 +- 5.776e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            3.596e-02 +- 5.422e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                3.449e-03 +- 1.129e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM         2.329e-03 +- 4.642e-06 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           2.095e-07 +- 4.234e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          2.102e-07 +- 4.234e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-700_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-70_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                             1.125e-02 +- 1.798e-05 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            1.149e-02 +- 1.768e-05 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                1.409e-03 +- 4.351e-06 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM         4.659e-04 +- 2.101e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                             2.787e-03 +- 4.749e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            2.879e-03 +- 4.641e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                7.075e-04 +- 1.618e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM         1.292e-04 +- 4.500e-07 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           1.187e-07 +- 3.057e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          1.187e-07 +- 2.360e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-800_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_M-85_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            6.848e-04 +- 1.336e-06 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           7.004e-04 +- 1.399e-06 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                       -1
+/HeavyNeutrino_trilepton_M-85_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                -1
+/HeavyNeutrino_trilepton_M-900_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                           7.012e-08 +- 1.387e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                          7.023e-08 +- 1.386e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                      -1
+/HeavyNeutrino_trilepton_M-900_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                               -1
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                      5.529e-08 +- 4.312e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                     5.566e-08 +- 2.855e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM         5.108e-08 +- 3.378e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM      8.164e-09 +- 8.874e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-1200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                      3.319e-08 +- 1.651e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                     3.336e-08 +- 1.652e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                      1.668e-08 +- 8.181e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-1500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                     1.667e-08 +- 8.329e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                       1.704e-07 +- 9.245e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                      1.712e-07 +- 9.195e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM          1.558e-07 +- 9.259e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM      2.443e-08 +- 2.212e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                       1.262e-07 +- 6.658e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                      1.263e-07 +- 6.682e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM          1.138e-07 +- 7.922e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM      1.803e-08 +- 1.704e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                       9.392e-08 +- 4.954e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                      9.508e-08 +- 4.926e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM          8.733e-08 +- 5.075e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM      1.366e-08 +- 1.219e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                       7.160e-08 +- 3.797e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                      7.190e-08 +- 3.785e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM          6.648e-08 +- 3.808e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM      1.033e-08 +- 9.755e-11 pb
+/QCD_Pt-15to7000_TuneCP5_Flat2018_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                      1.346e+09 +- 5.014e+05 pb
 /QCD_Pt_1000to1400_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                             7.476e+00 +- 2.886e-03 pb
 /QCD_Pt_120to170_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                               4.074e+05 +- 1.339e+02 pb
 /QCD_Pt_1400to1800_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                             6.483e-01 +- 2.468e-04 pb
 /QCD_Pt_15to30_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                 1.246e+09 +- 3.567e+05 pb
 /QCD_Pt_1800to2400_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                             8.743e-02 +- 3.291e-05 pb
-/QCD_Pt_2400to3200_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                             5.239e-03 +- 2.318e-06 pb
+/QCD_Pt_2400to3200_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                                    -1
 /QCD_Pt_30to50_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                 1.069e+08 +- 3.053e+04 pb
 /QCD_Pt_3200toInf_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                              1.352e-04 +- 7.097e-08 pb
 /QCD_Pt_50to80_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                 1.571e+07 +- 5.035e+03 pb
 /QCD_Pt_600to800_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                               1.564e+02 +- 5.902e-02 pb
 /QCD_Pt_800to1000_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                              2.626e+01 +- 1.065e-02 pb
 /QCD_Pt_80to120_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                2.340e+06 +- 7.875e+02 pb
-/ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                         3.549e+00 +- 3.650e-04 pb
-/ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                         3.549e+00 +- 2.892e-04 pb
-/ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                        6.793e+01 +- 4.479e-01 pb
+/ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                         3.549e+00 +- 2.891e-04 pb
 /ST_t-channel_antitop_5f_InclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                7.174e+01 +- 1.193e-01 pb
-/ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                            1.134e+02 +- 8.831e-01 pb
-/ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                 3.251e+01 +- 2.346e-02 pb
-/ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                     3.245e+01 +- 2.338e-02 pb
-/TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                              6.871e+02 +- 5.174e-01 pb
 /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                              6.871e+02 +- 5.174e-01 pb
-/TTToHadronic_TuneCP5_erdON_13TeV-powheg-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                     6.871e+02 +- 5.174e-01 pb
 /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                       6.871e+02 +- 5.174e-01 pb
-/TTToSemiLeptonic_TuneCP5_erdON_13TeV-powheg-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                 6.871e+02 +- 5.174e-01 pb
 /TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                              5.113e-01 +- 7.264e-04 pb
 /WGToLNuG_01J_5f_PDFWeights_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                       1.915e+02 +- 3.188e-01 pb
-/WGToLNuG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                  1.911e+02 +- 3.061e-01 pb
-/WGToLNuG_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                          4.128e+02 +- 2.106e-01 pb
-/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                        5.362e+04 +- 2.371e+01 pb
 /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                               2.158e-01 +- 2.479e-04 pb
 /WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                               1.707e-01 +- 1.757e-04 pb
-/WW_TuneCP5_13TeV-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                            7.571e+01 +- 2.744e-02 pb
-/WW_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                                                   -1
+/WW_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                            7.590e+01 +- 2.203e-02 pb
 /WZTo3LNu_mllmin01_NNPDF31_TuneCP5_13TeV_powheg_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                              4.664e+00 +- 1.601e-03 pb
-/WZ_TuneCP5_13TeV-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                            2.749e+01 +- 8.232e-03 pb
 /WZ_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                            2.756e+01 +- 8.332e-03 pb
-/ZGTo2NuG_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                         3.016e+01 +- 5.379e-02 pb
 /ZGToLLG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                   5.147e+01 +- 8.224e-02 pb
 /ZZTo2L2Nu_TuneCP5_13TeV_powheg_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                                              9.738e-01 +- 9.971e-04 pb
-/ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                                         -1
-/ZZ_TuneCP5_13TeV-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                            1.210e+01 +- 4.485e-03 pb
-/tZq_ll_4f_ckm_NLO_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer19UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                           -1
-/tZq_ll_4f_ckm_NLO_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                    7.561e-02 +- 2.088e-04 pb
+/ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                  1.476e-02 +- 3.584e-06 pb
+/tZq_ll_4f_ckm_NLO_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v2/MINIAODSIM                                                                           -1
 /ttHJetToNonbb_M125_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                       5.040e-01 +- 1.431e-03 pb
 /ttHJetTobb_M125_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v1/MINIAODSIM                                          5.033e-01 +- 1.453e-03 pb
 
 Summer20UL16post
 
-/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                               -1
-/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                           6.640e+03 +- 1.320e+01 pb
+/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                        1.589e+04 +- 6.152e+00 pb
 /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                           6.428e+03 +- 1.239e+01 pb
 /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAOD-Pilot_106X_mcRun2_asymptotic_v13-v3/MINIAODSIM                                                     6.612e+03 +- 2.880e+01 pb
-/DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                            5.361e+03 +- 2.824e+00 pb
-/QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                         1.088e+00 +- 1.154e-03 pb
-/QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                                    -1
-/QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                          2.115e+04 +- 1.751e+01 pb
-/QCD_Pt-15to20_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                                               1.302e+06 +- 7.409e+02 pb
-/QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                            2.798e+06 +- 2.213e+03 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   4.310e-08 +- 8.526e-11 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                  4.299e-08 +- 8.509e-11 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                              -1
+/HeavyNeutrino_trilepton_M-1000_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                       -1
+/HeavyNeutrino_trilepton_M-100_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    4.268e-04 +- 9.688e-07 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   4.312e-04 +- 9.664e-07 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-100_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-10_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                      8.326e-02 +- 1.401e-04 pb
+/HeavyNeutrino_trilepton_M-10_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     8.420e-02 +- 1.372e-04 pb
+/HeavyNeutrino_trilepton_M-1200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   1.764e-08 +- 3.449e-11 pb
+/HeavyNeutrino_trilepton_M-1200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                  1.765e-08 +- 3.453e-11 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    1.550e-04 +- 3.965e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   1.564e-04 +- 3.993e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-125_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-1500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                   5.340e-09 +- 1.017e-11 pb
+/HeavyNeutrino_trilepton_M-1500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                  5.356e-09 +- 1.018e-11 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    7.457e-05 +- 1.831e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   7.456e-05 +- 1.826e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-150_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    2.462e-05 +- 5.832e-08 pb
+/HeavyNeutrino_trilepton_M-200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   2.466e-05 +- 5.843e-08 pb
+/HeavyNeutrino_trilepton_M-200_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-200_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-20_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                      7.831e-02 +- 1.294e-04 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     8.003e-02 +- 1.302e-04 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                -1
+/HeavyNeutrino_trilepton_M-20_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                  7.099e-03 +- 1.423e-05 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    1.080e-05 +- 2.503e-08 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   1.088e-05 +- 2.489e-08 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-250_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-300_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    5.557e-06 +- 1.240e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   5.574e-06 +- 1.245e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-300_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-30_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                      7.978e-02 +- 8.814e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     8.137e-02 +- 9.272e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                         2.007e-02 +- 3.952e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                  6.845e-03 +- 1.394e-05 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    3.148e-06 +- 6.937e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   3.164e-06 +- 6.931e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-350_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-400_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    1.921e-06 +- 4.100e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   1.933e-06 +- 4.101e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-400_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-40_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                      7.622e-02 +- 1.268e-04 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     7.668e-02 +- 1.187e-04 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                         1.485e-02 +- 2.985e-05 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                  6.269e-03 +- 1.807e-05 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                                           -1
+/HeavyNeutrino_trilepton_M-450_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   1.232e-06 +- 2.609e-09 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-450_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    8.195e-07 +- 1.710e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   8.230e-07 +- 1.710e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-500_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-50_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                      5.965e-02 +- 9.183e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     6.034e-02 +- 9.185e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                -1
+/HeavyNeutrino_trilepton_M-50_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                  4.607e-03 +- 1.295e-05 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    3.980e-07 +- 8.066e-10 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   3.989e-07 +- 8.087e-10 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-600_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-60_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                      3.536e-02 +- 5.361e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     3.594e-02 +- 5.308e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                         3.440e-03 +- 6.658e-06 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                  2.347e-03 +- 1.000e-05 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    2.106e-07 +- 4.227e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   2.109e-07 +- 4.222e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-700_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-70_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                      1.124e-02 +- 1.751e-05 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     1.149e-02 +- 1.914e-05 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                -1
+/HeavyNeutrino_trilepton_M-70_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                  4.645e-04 +- 1.080e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                      2.780e-03 +- 4.551e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     2.885e-03 +- 4.655e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                         7.060e-04 +- 1.444e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                         -1
+/HeavyNeutrino_trilepton_M-800_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    1.184e-07 +- 2.368e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                   1.185e-07 +- 2.369e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-800_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_M-85_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     6.864e-04 +- 1.340e-06 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    7.028e-04 +- 1.376e-06 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                                -1
+/HeavyNeutrino_trilepton_M-85_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                         -1
+/HeavyNeutrino_trilepton_M-900_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                    6.986e-08 +- 1.394e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                   7.010e-08 +- 1.383e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                               -1
+/HeavyNeutrino_trilepton_M-900_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                        -1
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                               5.501e-08 +- 2.872e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                              5.494e-08 +- 2.814e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                  5.152e-08 +- 2.849e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                  -1
+/HeavyNeutrino_trilepton_VBF_M-1200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                               3.321e-08 +- 1.654e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                              3.340e-08 +- 1.652e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                               1.660e-08 +- 8.038e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-1500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                              1.677e-08 +- 8.086e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                1.716e-07 +- 9.312e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                               1.710e-07 +- 9.221e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                   1.558e-07 +- 9.241e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM            2.485e-08 +- 2.260e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                1.262e-07 +- 6.593e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                               1.275e-07 +- 6.656e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                   1.166e-07 +- 6.664e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM            1.840e-08 +- 1.653e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                9.434e-08 +- 4.905e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                               9.490e-08 +- 4.940e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                   8.664e-08 +- 5.013e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM            1.381e-08 +- 1.239e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                7.121e-08 +- 3.794e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                               7.174e-08 +- 3.760e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                   6.688e-08 +- 3.801e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM            1.049e-08 +- 9.893e-11 pb
 /QCD_Pt-15to7000_TuneCP5_Flat2018_13TeV_pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                               1.370e+09 +- 5.912e+05 pb
-/QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                                             1.641e+04 +- 1.033e+01 pb
-/QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                          7.007e+03 +- 5.254e+00 pb
-/QCD_Pt-20to30_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                               4.850e+06 +- 3.548e+03 pb
-/QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                            2.515e+06 +- 1.621e+03 pb
-/QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                          6.215e+02 +- 4.573e-01 pb
-/QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                             1.084e+03 +- 9.812e-01 pb
-/QCD_Pt-30to50_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                                               6.356e+06 +- 3.213e+03 pb
-/QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                            1.361e+06 +- 8.629e+02 pb
-/QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                          5.907e+01 +- 5.323e-02 pb
-/QCD_Pt-50to80_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                                               1.974e+06 +- 1.006e+03 pb
-/QCD_Pt-50to80_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                            3.757e+05 +- 2.419e+02 pb
-/QCD_Pt-600to800_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                          1.827e+01 +- 1.517e-02 pb
-/QCD_Pt-800to1000_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                         3.291e+00 +- 2.719e-03 pb
-/QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                              3.639e+05 +- 2.133e+02 pb
-/QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                           8.825e+04 +- 6.193e+01 pb
 /QCD_Pt_3200toInf_TuneCP5_13TeV_pythia8/RunIISummer20UL16MiniAOD-pilot_106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                                                 1.336e-04 +- 4.968e-07 pb
-/ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                  3.549e+00 +- 2.966e-03 pb
-/ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                  3.549e+00 +- 2.965e-03 pb
-/ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                 6.793e+01 +- 4.479e-01 pb
+/ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                         -1
 /ST_t-channel_antitop_5f_InclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                         7.174e+01 +- 1.193e-01 pb
-/ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                     1.134e+02 +- 8.831e-01 pb
-/ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                          3.251e+01 +- 2.346e-02 pb
-/ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                              3.245e+01 +- 2.338e-02 pb
-/TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                       6.871e+02 +- 5.174e-01 pb
-/TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                       6.871e+02 +- 5.174e-01 pb
-/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                    6.871e+02 +- 5.174e-01 pb
+/TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                                              -1
 /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                    6.871e+02 +- 5.174e-01 pb
-/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                6.871e+02 +- 5.174e-01 pb
 /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                6.871e+02 +- 5.174e-01 pb
 /TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                       5.113e-01 +- 7.264e-04 pb
-/WGToLNuG_01J_5f_PDFWeights_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                       -1
-/WGToLNuG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                           1.909e+02 +- 3.101e-01 pb
-/WGToLNuG_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                   4.112e+02 +- 2.620e-01 pb
-/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                 5.380e+04 +- 2.593e+01 pb
+/WGToLNuG_01J_5f_PDFWeights_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                1.914e+02 +- 3.162e-01 pb
 /WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                 5.409e+04 +- 2.311e+01 pb
 /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                        2.158e-01 +- 2.479e-04 pb
-/WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                                               -1
-/WW_TuneCP5_13TeV-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                                     7.574e+01 +- 2.791e-02 pb
+/WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                        1.707e-01 +- 1.757e-04 pb
 /WW_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                                     7.584e+01 +- 3.638e-02 pb
 /WZTo3LNu_mllmin01_NNPDF31_TuneCP5_13TeV_powheg_pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                       4.664e+00 +- 1.601e-03 pb
-/WZ_TuneCP5_13TeV-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                                     2.750e+01 +- 1.693e-02 pb
 /WZ_TuneCP5_13TeV-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                                     2.757e+01 +- 1.061e-02 pb
-/ZGTo2NuG_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                  3.015e+01 +- 5.596e-02 pb
 /ZGToLLG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                            5.147e+01 +- 8.474e-02 pb
 /ZZTo2L2Nu_TuneCP5_13TeV_powheg_pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v1/MINIAODSIM                                                                       9.738e-01 +- 9.971e-04 pb
 /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                           1.476e-02 +- 2.319e-06 pb
-/ZZ_TuneCP5_13TeV-pythia8/RunIISummer19UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                                                     1.209e+01 +- 5.677e-03 pb
 /tZq_ll_4f_ckm_NLO_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                             7.561e-02 +- 2.088e-04 pb
 /ttHJetTobb_M125_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer20UL16MiniAOD-106X_mcRun2_asymptotic_v13-v2/MINIAODSIM                                                   5.027e-01 +- 1.631e-03 pb
 
@@ -141,22 +310,144 @@ Summer20UL17
 /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAOD-Pilot_106X_mc2017_realistic_v6-v2/MINIAODSIM                                                       6.645e+03 +- 2.886e+01 pb
 /DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                              5.356e+03 +- 2.452e+00 pb
 /DYJetsToLL_Pt-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                         9.428e+01 +- 2.150e-01 pb
-/DYJetsToLL_Pt-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                                -1
+/DYJetsToLL_Pt-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                         3.651e+00 +- 7.595e-03 pb
 /DYJetsToLL_Pt-400To650_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                         4.972e-01 +- 1.090e-03 pb
-/DYJetsToLL_Pt-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                                 -1
+/DYJetsToLL_Pt-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                          3.945e+02 +- 9.116e-01 pb
 /DYJetsToLL_Pt-650ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                         4.684e-02 +- 9.313e-05 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     4.310e-08 +- 8.755e-11 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                    4.316e-08 +- 8.516e-11 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                        4.405e-08 +- 8.524e-11 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                 7.142e-09 +- 2.480e-11 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      4.277e-04 +- 9.560e-07 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     4.305e-04 +- 9.735e-07 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         2.038e-04 +- 4.167e-07 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  2.586e-05 +- 5.699e-08 pb
+/HeavyNeutrino_trilepton_M-10_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                        8.307e-02 +- 1.357e-04 pb
+/HeavyNeutrino_trilepton_M-10_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                       8.421e-02 +- 1.415e-04 pb
+/HeavyNeutrino_trilepton_M-1200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     1.757e-08 +- 3.453e-11 pb
+/HeavyNeutrino_trilepton_M-1200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                    1.760e-08 +- 3.446e-11 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      1.549e-04 +- 3.953e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     1.565e-04 +- 3.990e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         1.167e-04 +- 2.201e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  1.537e-05 +- 3.346e-08 pb
+/HeavyNeutrino_trilepton_M-1500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     5.351e-09 +- 1.015e-11 pb
+/HeavyNeutrino_trilepton_M-1500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                    5.339e-09 +- 1.036e-11 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      7.426e-05 +- 2.085e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     7.458e-05 +- 1.832e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         6.436e-05 +- 1.104e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                         -1
+/HeavyNeutrino_trilepton_M-200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                             -1
+/HeavyNeutrino_trilepton_M-200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     2.465e-05 +- 5.822e-08 pb
+/HeavyNeutrino_trilepton_M-200_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         2.349e-05 +- 5.823e-08 pb
+/HeavyNeutrino_trilepton_M-200_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  3.237e-06 +- 1.123e-08 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                        7.851e-02 +- 1.271e-04 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                       7.965e-02 +- 1.308e-04 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                           2.370e-02 +- 3.261e-05 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                    7.103e-03 +- 1.488e-05 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      1.082e-05 +- 2.484e-08 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     1.084e-05 +- 2.491e-08 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         1.066e-05 +- 2.556e-08 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  1.518e-06 +- 5.217e-09 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      5.557e-06 +- 1.238e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     5.583e-06 +- 1.239e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         5.616e-06 +- 1.240e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  8.084e-07 +- 2.714e-09 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                        7.995e-02 +- 9.234e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                       8.143e-02 +- 9.410e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                           2.013e-02 +- 2.643e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                    6.855e-03 +- 1.274e-05 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      3.154e-06 +- 7.154e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     3.167e-06 +- 6.930e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         3.189e-06 +- 6.948e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  4.701e-07 +- 1.544e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      1.922e-06 +- 4.103e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     1.936e-06 +- 4.116e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         1.957e-06 +- 4.168e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  2.915e-07 +- 9.321e-10 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                        7.600e-02 +- 1.194e-04 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                       7.681e-02 +- 1.196e-04 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                           1.486e-02 +- 2.369e-05 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                    6.287e-03 +- 1.010e-05 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      1.237e-06 +- 2.610e-09 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     1.233e-06 +- 2.620e-09 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         1.254e-06 +- 2.617e-09 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  1.898e-07 +- 5.943e-10 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      8.213e-07 +- 1.713e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     8.200e-07 +- 1.717e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         8.356e-07 +- 1.712e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                         -1
+/HeavyNeutrino_trilepton_M-50_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                        5.979e-02 +- 9.284e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                       6.052e-02 +- 9.046e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                           8.647e-03 +- 1.139e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                    4.617e-03 +- 8.602e-06 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      3.978e-07 +- 8.342e-10 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     3.980e-07 +- 8.431e-10 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         4.068e-07 +- 8.071e-10 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  6.334e-08 +- 2.007e-10 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                        3.535e-02 +- 5.381e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                       3.590e-02 +- 5.377e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                           3.454e-03 +- 6.029e-06 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                    2.328e-03 +- 5.367e-06 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      2.102e-07 +- 4.227e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     2.101e-07 +- 4.231e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         2.148e-07 +- 4.211e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  3.381e-08 +- 1.047e-10 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                        1.125e-02 +- 1.735e-05 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                              -1
+/HeavyNeutrino_trilepton_M-70_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                  -1
+/HeavyNeutrino_trilepton_M-70_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                    4.642e-04 +- 1.046e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                        2.785e-03 +- 4.679e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                       2.885e-03 +- 4.606e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                           7.098e-04 +- 1.049e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                           -1
+/HeavyNeutrino_trilepton_M-800_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      1.183e-07 +- 2.366e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     1.186e-07 +- 2.378e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         1.210e-07 +- 2.649e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  1.934e-08 +- 6.498e-11 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                       6.872e-04 +- 1.344e-06 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      7.029e-04 +- 1.373e-06 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                          3.340e-04 +- 1.162e-06 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                   1.981e-05 +- 5.131e-08 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                      7.025e-08 +- 1.388e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     7.012e-08 +- 1.387e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                         7.174e-08 +- 1.476e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                  1.154e-08 +- 3.809e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                 5.452e-08 +- 2.119e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                5.479e-08 +- 2.119e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                    5.137e-08 +- 2.087e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM             8.092e-09 +- 5.444e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-1200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                 3.337e-08 +- 1.344e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                3.356e-08 +- 1.224e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                 1.669e-08 +- 6.486e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-1500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                1.666e-08 +- 6.131e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                  1.721e-07 +- 6.829e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                 1.712e-07 +- 6.796e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                     1.555e-07 +- 6.832e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM              2.433e-08 +- 1.599e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                  1.261e-07 +- 4.866e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                 1.255e-07 +- 4.893e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                     1.153e-07 +- 4.834e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM              1.816e-08 +- 1.225e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                  9.423e-08 +- 3.575e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                 9.520e-08 +- 3.754e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                     8.769e-08 +- 3.672e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     -1
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                  7.157e-08 +- 3.009e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                 7.217e-08 +- 2.827e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                     6.584e-08 +- 2.820e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                     -1
 /QCD_Pt_1000to1400_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                        7.477e+00 +- 2.474e-03 pb
 /QCD_Pt_120to170_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                          4.076e+05 +- 1.245e+02 pb
 /QCD_Pt_1400to1800_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                        6.485e-01 +- 2.820e-04 pb
 /QCD_Pt_15to30_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                                   -1
 /QCD_Pt_170to300_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                          1.036e+05 +- 3.895e+01 pb
 /QCD_Pt_1800to2400_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                        8.747e-02 +- 3.801e-05 pb
-/QCD_Pt_2400to3200_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                               -1
+/QCD_Pt_2400to3200_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                        5.235e-03 +- 2.811e-06 pb
 /QCD_Pt_300to470_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                          6.833e+03 +- 2.338e+00 pb
 /QCD_Pt_30to50_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                            1.069e+08 +- 3.980e+04 pb
-/QCD_Pt_3200toInf_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                                -1
-/QCD_Pt_470to600_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                          5.520e+02 +- 2.045e-01 pb
-/QCD_Pt_50to80_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                                   -1
+/QCD_Pt_3200toInf_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                         1.352e-04 +- 9.299e-08 pb
+/QCD_Pt_470to600_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                                 -1
+/QCD_Pt_50to80_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                            1.571e+07 +- 5.197e+03 pb
 /QCD_Pt_600to800_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                          1.565e+02 +- 5.686e-02 pb
 /QCD_Pt_800to1000_TuneCP5_13TeV_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                         2.625e+01 +- 9.239e-03 pb
 /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                         6.871e+02 +- 5.174e-01 pb
@@ -168,48 +459,170 @@ Summer20UL17
 /WGToLNuG_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                                     4.122e+02 +- 1.944e-01 pb
 /WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                                   5.362e+04 +- 2.359e+01 pb
 /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                          2.158e-01 +- 2.479e-04 pb
-/WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                                 -1
+/WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                          1.707e-01 +- 1.757e-04 pb
 /WW_TuneCP5_13TeV-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                       7.589e+01 +- 2.334e-02 pb
 /WZ_TuneCP5_13TeV-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                       2.757e+01 +- 7.926e-03 pb
 /ZGToLLG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                              5.141e+01 +- 8.408e-02 pb
 /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                             1.476e-02 +- 2.824e-06 pb
-/ZZ_TuneCP5_13TeV-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                                              -1
+/ZZ_TuneCP5_13TeV-pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v2/MINIAODSIM                                                                                       1.214e+01 +- 4.724e-03 pb
 /ttHJetToNonbb_M125_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                  5.034e-01 +- 1.416e-03 pb
 /ttHJetTobb_M125_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer20UL17MiniAOD-106X_mc2017_realistic_v6-v1/MINIAODSIM                                                     5.043e-01 +- 1.359e-03 pb
 
 Summer20UL18
 
-/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                      -1
+/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                               1.588e+04 +- 6.080e+00 pb
 /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAOD-Pilot_106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                            6.663e+03 +- 3.416e+01 pb
 /DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                                                   5.349e+03 +- 2.260e+00 pb
-/QCD_Pt_1000to1400_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                                    -1
+/HeavyNeutrino_trilepton_M-1000_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          4.302e-08 +- 8.494e-11 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                         4.304e-08 +- 8.484e-11 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM             4.396e-08 +- 8.888e-11 pb
+/HeavyNeutrino_trilepton_M-1000_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM      7.084e-09 +- 2.331e-11 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           4.258e-04 +- 9.611e-07 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          4.304e-04 +- 9.626e-07 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              2.044e-04 +- 4.172e-07 pb
+/HeavyNeutrino_trilepton_M-100_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       2.586e-05 +- 5.739e-08 pb
+/HeavyNeutrino_trilepton_M-10_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                             8.313e-02 +- 1.359e-04 pb
+/HeavyNeutrino_trilepton_M-10_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                            8.419e-02 +- 1.372e-04 pb
+/HeavyNeutrino_trilepton_M-1200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          1.759e-08 +- 3.609e-11 pb
+/HeavyNeutrino_trilepton_M-1200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                         1.760e-08 +- 3.441e-11 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           1.550e-04 +- 3.950e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          1.561e-04 +- 3.957e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              1.168e-04 +- 2.158e-07 pb
+/HeavyNeutrino_trilepton_M-125_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       1.539e-05 +- 3.463e-08 pb
+/HeavyNeutrino_trilepton_M-1500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          5.343e-09 +- 1.016e-11 pb
+/HeavyNeutrino_trilepton_M-1500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                         5.340e-09 +- 1.016e-11 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           7.459e-05 +- 1.832e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          7.478e-05 +- 1.831e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              6.433e-05 +- 2.210e-07 pb
+/HeavyNeutrino_trilepton_M-150_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       8.616e-06 +- 1.856e-08 pb
+/HeavyNeutrino_trilepton_M-200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           2.459e-05 +- 5.989e-08 pb
+/HeavyNeutrino_trilepton_M-200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                                                 -1
+/HeavyNeutrino_trilepton_M-200_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              2.353e-05 +- 5.830e-08 pb
+/HeavyNeutrino_trilepton_M-200_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       3.251e-06 +- 1.157e-08 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                             7.829e-02 +- 1.301e-04 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                            7.958e-02 +- 1.293e-04 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                2.370e-02 +- 4.914e-05 pb
+/HeavyNeutrino_trilepton_M-20_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM         7.086e-03 +- 1.431e-05 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           1.079e-05 +- 2.487e-08 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          1.082e-05 +- 2.485e-08 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              1.076e-05 +- 2.496e-08 pb
+/HeavyNeutrino_trilepton_M-250_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       1.519e-06 +- 4.933e-09 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           5.581e-06 +- 1.512e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          5.576e-06 +- 1.237e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              5.584e-06 +- 1.414e-08 pb
+/HeavyNeutrino_trilepton_M-300_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       8.113e-07 +- 2.688e-09 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                             7.990e-02 +- 9.111e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                            8.150e-02 +- 9.292e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                2.019e-02 +- 5.311e-05 pb
+/HeavyNeutrino_trilepton_M-30_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM         6.857e-03 +- 1.013e-05 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           3.170e-06 +- 7.082e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          3.170e-06 +- 6.926e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              3.202e-06 +- 6.945e-09 pb
+/HeavyNeutrino_trilepton_M-350_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       4.725e-07 +- 1.580e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           1.922e-06 +- 4.109e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          1.927e-06 +- 4.116e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              1.951e-06 +- 4.164e-09 pb
+/HeavyNeutrino_trilepton_M-400_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                              -1
+/HeavyNeutrino_trilepton_M-40_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                             7.591e-02 +- 1.191e-04 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                            7.655e-02 +- 1.203e-04 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                1.487e-02 +- 3.311e-05 pb
+/HeavyNeutrino_trilepton_M-40_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM         6.281e-03 +- 8.674e-06 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           1.233e-06 +- 2.600e-09 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          1.232e-06 +- 2.607e-09 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              1.254e-06 +- 2.677e-09 pb
+/HeavyNeutrino_trilepton_M-450_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       1.906e-07 +- 5.880e-10 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           8.202e-07 +- 1.707e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          8.201e-07 +- 1.709e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              8.342e-07 +- 1.737e-09 pb
+/HeavyNeutrino_trilepton_M-500_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                              -1
+/HeavyNeutrino_trilepton_M-50_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                             5.973e-02 +- 9.639e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                            6.033e-02 +- 9.083e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                8.611e-03 +- 1.096e-05 pb
+/HeavyNeutrino_trilepton_M-50_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM         4.602e-03 +- 8.136e-06 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           3.970e-07 +- 8.106e-10 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          3.988e-07 +- 8.078e-10 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              4.053e-07 +- 8.988e-10 pb
+/HeavyNeutrino_trilepton_M-600_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                              -1
+/HeavyNeutrino_trilepton_M-60_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                             3.540e-02 +- 5.348e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                            3.582e-02 +- 5.564e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                3.451e-03 +- 1.409e-05 pb
+/HeavyNeutrino_trilepton_M-60_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM         2.335e-03 +- 4.125e-06 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           2.109e-07 +- 5.738e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          2.110e-07 +- 4.229e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              2.149e-07 +- 4.297e-10 pb
+/HeavyNeutrino_trilepton_M-700_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       3.384e-08 +- 1.128e-10 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                             1.125e-02 +- 1.736e-05 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                                                   -1
+/HeavyNeutrino_trilepton_M-70_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                1.411e-03 +- 2.035e-06 pb
+/HeavyNeutrino_trilepton_M-70_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM         4.661e-04 +- 9.906e-07 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_e_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                             2.783e-03 +- 4.547e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_mu_LO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                            2.876e-03 +- 4.723e-06 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_tau_LO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                7.112e-04 +- 9.673e-07 pb
+/HeavyNeutrino_trilepton_M-75_V-0p01_tau_LO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM         1.286e-04 +- 2.554e-07 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           1.186e-07 +- 2.718e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          1.185e-07 +- 2.373e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              1.207e-07 +- 2.384e-10 pb
+/HeavyNeutrino_trilepton_M-800_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       1.927e-08 +- 6.182e-11 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                            6.874e-04 +- 1.336e-06 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           7.058e-04 +- 1.374e-06 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM               3.330e-04 +- 5.970e-07 pb
+/HeavyNeutrino_trilepton_M-85_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM        1.988e-05 +- 4.046e-08 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                           7.010e-08 +- 1.385e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                          7.004e-08 +- 1.388e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM              7.159e-08 +- 1.393e-10 pb
+/HeavyNeutrino_trilepton_M-900_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM       1.151e-08 +- 3.804e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                      5.503e-08 +- 2.328e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                     5.503e-08 +- 2.111e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM         5.134e-08 +- 2.082e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1000_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM      8.092e-09 +- 5.359e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-1200_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                      3.351e-08 +- 1.261e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1200_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                     3.333e-08 +- 1.221e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-1500_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                      1.669e-08 +- 6.277e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-1500_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                     1.676e-08 +- 6.469e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                       1.718e-07 +- 7.020e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                      1.706e-07 +- 7.075e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM          1.539e-07 +- 7.010e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-600_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM      2.444e-08 +- 1.647e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                       1.254e-07 +- 4.912e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                      1.254e-07 +- 5.065e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                                 -1
+/HeavyNeutrino_trilepton_VBF_M-700_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM      1.833e-08 +- 1.186e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                       9.425e-08 +- 3.685e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                      9.433e-08 +- 3.634e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM          8.722e-08 +- 3.651e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-800_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM      1.380e-08 +- 9.216e-11 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_e_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                       7.131e-08 +- 2.829e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_mu_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                      7.192e-08 +- 2.818e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_tau_NLO_tauhFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM          6.609e-08 +- 2.826e-10 pb
+/HeavyNeutrino_trilepton_VBF_M-900_V-0p01_tau_NLO_triLightLepFilter_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM      1.047e-08 +- 7.082e-11 pb
+/QCD_Pt_1000to1400_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                             7.480e+00 +- 2.669e-03 pb
 /QCD_Pt_120to170_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                               4.076e+05 +- 1.391e+02 pb
 /QCD_Pt_1400to1800_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                             6.489e-01 +- 2.765e-04 pb
 /QCD_Pt_15to30_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                 1.246e+09 +- 4.219e+05 pb
 /QCD_Pt_170to300_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                               1.035e+05 +- 3.690e+01 pb
-/QCD_Pt_1800to2400_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                                    -1
-/QCD_Pt_2400to3200_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                                    -1
+/QCD_Pt_1800to2400_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                             8.748e-02 +- 3.957e-05 pb
+/QCD_Pt_2400to3200_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                             5.238e-03 +- 3.217e-06 pb
 /QCD_Pt_300to470_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                               6.832e+03 +- 2.560e+00 pb
-/QCD_Pt_30to50_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                                        -1
+/QCD_Pt_30to50_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                 1.068e+08 +- 3.580e+04 pb
 /QCD_Pt_3200toInf_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                              1.351e-04 +- 8.035e-08 pb
 /QCD_Pt_470to600_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                               5.514e+02 +- 2.055e-01 pb
 /QCD_Pt_50to80_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                 1.570e+07 +- 5.519e+03 pb
 /QCD_Pt_600to800_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                               1.565e+02 +- 5.722e-02 pb
-/QCD_Pt_800to1000_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                                     -1
-/QCD_Pt_80to120_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                                       -1
+/QCD_Pt_800to1000_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                              2.624e+01 +- 8.719e-03 pb
+/QCD_Pt_80to120_TuneCP5_13TeV_pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                2.340e+06 +- 8.559e+02 pb
 /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                              6.871e+02 +- 5.174e-01 pb
-/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                                  -1
+/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                           6.871e+02 +- 5.174e-01 pb
 /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                       6.871e+02 +- 5.174e-01 pb
-/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                    -1
+/TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                             2.167e-01 +- 3.857e-04 pb
 /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                     2.439e-01 +- 2.995e-04 pb
 /TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                              5.113e-01 +- 7.264e-04 pb
-/WGToLNuG_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                                                                                 -1
+/WGToLNuG_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                                                          4.124e+02 +- 2.423e-01 pb
 /WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                                                        5.358e+04 +- 2.645e+01 pb
-/WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                                      -1
+/WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                               2.158e-01 +- 2.479e-04 pb
 /WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                               1.707e-01 +- 1.757e-04 pb
 /WW_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                            7.590e+01 +- 2.463e-02 pb
 /WZ_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                            2.757e+01 +- 8.454e-03 pb
-/ZGToLLG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                                                                          -1
+/ZGToLLG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/MINIAODSIM                                                   5.138e+01 +- 8.805e-02 pb
 /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                  1.476e-02 +- 2.319e-06 pb
 /ZZ_TuneCP5_13TeV-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                                            1.214e+01 +- 4.012e-03 pb
 /tZq_ll_4f_ckm_NLO_TuneCP5_13TeV-amcatnlo-pythia8/RunIISummer20UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v2/MINIAODSIM                                                    7.561e-02 +- 2.088e-04 pb
